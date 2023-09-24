@@ -398,7 +398,7 @@ export default function Home() {
             
         </div>
       </Container>
-      <div style={{ position: "absolute", top: 100, right: 800 }}>
+      <div style={{ position: "absolute", top: 300, left: 500 }}>
         <Image
           src={ape}
           width={800}
